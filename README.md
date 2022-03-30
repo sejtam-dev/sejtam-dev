@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejtam-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sejtam-dev" /> </p>
 
-- 🔭 I’m currently working on [SOČ](https://www.soc.cz/)
+- 🔭 I’m currently working on a [SOČ](https://www.soc.cz/) project
 
 - 🌱 I’m currently learning **C++, Raspberry Pi Pico**
-
-- 👨‍💻 All of my projects are available at [https://sejtam.eu](https://sejtam.eu)
 
 - 📫 How to reach me **sejtam.developer@gmail.com**
 

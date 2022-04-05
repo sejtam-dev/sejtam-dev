@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [SOČ](https://www.soc.cz/) project
 
-- 🌱 I’m currently learning **C++, Raspberry Pi Pico**
+- 🌱 I’m currently learning **C++, Raspberry Pi Pico / Pico SDK**
 
 - 📫 How to reach me **sejtam.developer@gmail.com**
 

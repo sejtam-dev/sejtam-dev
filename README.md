@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejtam-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sejtam-dev" /> </p>
 
-- 🔭 I’m currently working on a [SOČ](https://www.soc.cz/) project
+- 🔭 I’m currently working on Libraries for Raspberry Pi Pico
 
 - 🌱 I’m currently learning **C++, Raspberry Pi Pico / Pico SDK**
 

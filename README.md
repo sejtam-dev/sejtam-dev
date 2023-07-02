@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sejtam_</h1>
-<h3 align="center">I’m C#, Java & C++ backend developer!</h3>
+<h3 align="center">I’m C#, Java, C++ & PHP backend developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejtam-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sejtam-dev" /> </p>
 
